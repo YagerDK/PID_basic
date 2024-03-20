@@ -1,2 +1,2 @@
 # PID_basic
-Elevetor simultion for understanding PID
+Elevetor simulation for understanding PID
